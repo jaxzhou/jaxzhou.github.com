@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dabac75f-0e4a-4466-8c59-000a006a56f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Private.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Private.html" afterPath="$PROJECT_DIR$/Private.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,7 +31,7 @@
     <file path="/socketServer.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775036707" ignored="false" />
     <file path="$USER_HOME$/Library/Caches/WebStorm6/extLibs/nodejs-v0.8.14-src/core-modules-sources/lib/http.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775799326" ignored="false" />
     <file path="$USER_HOME$/Library/Caches/WebStorm6/extLibs/nodejs-v0.8.14-src/core-modules-sources/lib/child_process.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775799326" ignored="false" />
-    <file path="/Private.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364377089707" ignored="false" />
+    <file path="/Private.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364378105562" ignored="false" />
     <file path="/stylesheet.css" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364377116491" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Private.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Private.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Private.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="39" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.2040815">
+            <state line="67" column="68" selection-start="2478" selection-end="2478" vertical-scroll-proportion="0.8302583">
               <folding />
             </state>
           </provider>
@@ -106,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="378" column="16" selection-start="6918" selection-end="6918" vertical-scroll-proportion="0.26395938">
+            <state line="382" column="20" selection-start="7000" selection-end="7000" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -156,8 +156,8 @@
         <option value="$PROJECT_DIR$/projects.json" />
         <option value="$PROJECT_DIR$/Projects.html" />
         <option value="$PROJECT_DIR$/javascripts/projects.js" />
-        <option value="$PROJECT_DIR$/Private.html" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
+        <option value="$PROJECT_DIR$/Private.html" />
       </list>
     </option>
   </component>
@@ -464,16 +464,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Private.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="39" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.2040815">
+        <state line="382" column="20" selection-start="7000" selection-end="7000" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/Private.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="378" column="16" selection-start="6918" selection-end="6918" vertical-scroll-proportion="0.26395938">
+        <state line="67" column="68" selection-start="2478" selection-end="2478" vertical-scroll-proportion="0.8302583">
           <folding />
         </state>
       </provider>
