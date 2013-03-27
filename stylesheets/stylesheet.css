@@ -375,6 +375,14 @@ Full-Width Styles
 }
 
 
+#TEXT{
+    width:530px;
+    display: block;
+    height:530px;
+    line-height: 20px;
+    font-size: 10px;
+    padding: 12px;
+}
 
 /*******************************************************************************
 Small Device Styles

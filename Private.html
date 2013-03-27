@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular-resource.min.js"></script>
+    <script src="javascripts/projects.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+</head>
+<body>
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+    <header class="inner">
+        <a id="forkme_banner" href="https://github.com/jaxzhou">View on GitHub</a>
+
+        <h1 id="project_title">Jaxzhou.github.com</h1>
+        <h2 id="project_tagline"> 死胖子要看这个</h2>
+
+    </header>
+</div>
+
+
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+        <div>
+            <div ID="TEXT">
+
+            </div>
+            <div>
+                  真是闲的蛋疼才来做这个玩意
+                凑合看吧
+            </div>
+        </div>
+    </section>
+</div>
+
+<script type="text/javascript">
+    var i = 0;
+    var timer = window.setInterval(function(){
+        if(i >= ConentValue.length){
+            clearInterval(timer);
+            return;
+        }
+        var text = document.getElementById("TEXT");
+        var c =         ConentValue.charAt(i);
+        if(c==="胖"){
+            c = c.fontcolor("hotpink");
+        }
+        text.innerHTML+=  c;
+        i ++;
+    },300);
+
+    var ConentValue = "长长长长长长长长长长长长长长长长长长胖长长长长长长长长长长长长长长长长胖长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长胖胖胖胖胖长长长长长长长长长长长长胖胖胖胖胖长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖长长长长长长长长胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长\n"+
+            "长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长\n"+
+            "长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长长长长长胖胖胖胖胖胖胖胖胖胖胖长长长长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长长长长长长长胖胖胖胖胖胖胖长长长长长长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长长长长长长长长长胖胖胖长长长长长长长长长长长长长长长长长长长长长长长长\n"+
+            "长长长长长长长长长长长长长长长长长长长长长长长长长长长胖长长长长长长长长长长长长长长长长长长长长长长长长长\n";
+</script>
+
+<!-- FOOTER  -->
+<div id="footer_wrap" class="outer">
+    <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+    </footer>
+</div>
+
+</body>
+</html>

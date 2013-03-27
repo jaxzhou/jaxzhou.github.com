@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dabac75f-0e4a-4466-8c59-000a006a56f7" name="Default" comment="" />
+    <list default="true" id="dabac75f-0e4a-4466-8c59-000a006a56f7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Private.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="jaxzhou.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363162284801" ignored="false" />
+    <file path="/Dummy.txt" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364374278693" ignored="false" />
     <file path="/index.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362735418981" ignored="false" />
     <file path="/main.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362652651745" ignored="false" />
-    <file path="/a.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362734788975" ignored="false" />
+    <file path="/a.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363764691675" ignored="false" />
     <file path="/a.coffee" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362734794383" ignored="false" />
-    <file path="/a.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362734798413" ignored="false" />
-    <file path="/a.less" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362735138937" ignored="false" />
+    <file path="/a.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363764700724" ignored="false" />
+    <file path="/a.less" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363764694384" ignored="false" />
     <file path="/a.xml" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362734841108" ignored="false" />
     <file path="/Projects.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363170706123" ignored="false" />
     <file path="/projects.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363170518676" ignored="false" />
     <file path="/projects.json" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1362742775729" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/WebSocket/package.json" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363765113066" ignored="false" />
+    <file path="/package.json" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363765104252" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/WebSocket/routes/index.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363765663805" ignored="false" />
+    <file path="/index.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363765651034" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/WebSocket/app.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363773531141" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/WebSocket/views/index.ejs" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775069783" ignored="false" />
+    <file path="/index.ejs" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775027475" ignored="false" />
+    <file path="/app.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363773528788" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/WebSocket/routes/socketServer.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775186033" ignored="false" />
+    <file path="/socketServer.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775036707" ignored="false" />
+    <file path="$USER_HOME$/Library/Caches/WebStorm6/extLibs/nodejs-v0.8.14-src/core-modules-sources/lib/http.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775799326" ignored="false" />
+    <file path="$USER_HOME$/Library/Caches/WebStorm6/extLibs/nodejs-v0.8.14-src/core-modules-sources/lib/child_process.js" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1363775799326" ignored="false" />
+    <file path="/Private.html" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364377089707" ignored="false" />
+    <file path="/stylesheet.css" changelist="dabac75f-0e4a-4466-8c59-000a006a56f7" time="1364377116491" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +55,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="11" selection-start="806" selection-end="808" vertical-scroll-proportion="0.0">
+            <state line="44" column="57" selection-start="1984" selection-end="1984" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Private.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Private.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="39" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.2040815">
               <folding />
             </state>
           </provider>
@@ -46,7 +73,7 @@
       <file leaf-file-name="Projects.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="24" selection-start="30" selection-end="40" vertical-scroll-proportion="-0.625">
+            <state line="25" column="22" selection-start="908" selection-end="914" vertical-scroll-proportion="-13.75">
               <folding />
             </state>
           </provider>
@@ -55,18 +82,16 @@
       <file leaf-file-name="projects.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascripts/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="19" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#155#0" expanded="false" />
-              </folding>
+            <state line="16" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="projects.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="66" selection-start="346" selection-end="346" vertical-scroll-proportion="0.40677965">
+            <state line="16" column="1" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,16 +100,16 @@
       <file leaf-file-name="params.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/params.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="60" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.0">
+            <state line="378" column="16" selection-start="6918" selection-end="6918" vertical-scroll-proportion="0.26395938">
               <folding />
             </state>
           </provider>
@@ -131,6 +156,8 @@
         <option value="$PROJECT_DIR$/projects.json" />
         <option value="$PROJECT_DIR$/Projects.html" />
         <option value="$PROJECT_DIR$/javascripts/projects.js" />
+        <option value="$PROJECT_DIR$/Private.html" />
+        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       </list>
     </option>
   </component>
@@ -199,28 +226,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jaxzhou.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jaxzhou.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Images" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -349,13 +366,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="806" selection-end="808" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="47" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0">
@@ -366,9 +376,7 @@
     <entry file="file://$PROJECT_DIR$/javascripts/projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="37" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#155#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -407,13 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="806" selection-end="808" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/pygment_trac.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="8" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0">
@@ -428,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="60" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
@@ -442,25 +436,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="30" selection-end="40" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#155#0" expanded="false" />
-          </folding>
+        <state line="16" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="66" selection-start="346" selection-end="346" vertical-scroll-proportion="0.40677965">
+        <state line="16" column="1" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="57" selection-start="1984" selection-end="1984" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="908" selection-end="914" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Private.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="39" selection-start="1447" selection-end="1447" vertical-scroll-proportion="-5.2040815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="378" column="16" selection-start="6918" selection-end="6918" vertical-scroll-proportion="0.26395938">
           <folding />
         </state>
       </provider>
