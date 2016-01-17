@@ -1,5 +1,7 @@
 .company {
   padding: 20px 30px;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 .job .sub-title{
