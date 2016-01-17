@@ -1,0 +1,17 @@
+.company {
+  padding: 20px 30px;
+}
+
+.job .sub-title{
+  font-size: 18px;
+  font-weight: bold;
+}
+.job .sub-title .job-title{
+  float: left;
+}
+.job .sub-title .job-period{
+  float: right;
+}
+.job .sub-content{
+  font-size: 18px;
+}

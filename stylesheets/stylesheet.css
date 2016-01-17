@@ -355,8 +355,6 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #FFF;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
 }
 
 #main_content {
@@ -431,4 +429,7 @@ Small Device Styles
 
 .text-center {
   text-align: center;
+}
+.clear-fix{
+  clear: both;
 }
