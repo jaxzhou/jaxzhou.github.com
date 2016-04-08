@@ -4,6 +4,11 @@
   margin: 0 auto;
 }
 
+small{
+  font-size: 16px;
+  padding: 0 10px;
+}
+
 .job .sub-title{
   font-size: 18px;
   font-weight: bold;
