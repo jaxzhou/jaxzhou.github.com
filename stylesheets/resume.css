@@ -22,3 +22,16 @@ small{
 .job .sub-content{
   font-size: 18px;
 }
+
+@media print {
+  .project_tagline {
+    margin-bottom: 1mm;
+    text-align: center;
+  }
+  h1, h2, h3,h4,h5 {
+    margin-bottom: 0mm;
+  }
+  .tag:after {
+    content: ', ';
+  }
+}

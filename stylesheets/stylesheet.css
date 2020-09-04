@@ -307,12 +307,14 @@ Full-Width Styles
   font-weight: 700;
 }
 
-#project_tagline {
+.project_tagline {
   color: #333;
   font-size: 24px;
   font-weight: 300;
   background: none;
+  margin-bottom: 5px;
 }
+
 
 #downloads {
   position: absolute;
@@ -425,6 +427,15 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
+}
+.tag {
+  padding: 4px 8px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  background-color: #333;
+  border-radius: 2px;
+  color: #FFF;
+  display: inline-block;
 }
 
 .text-center {
