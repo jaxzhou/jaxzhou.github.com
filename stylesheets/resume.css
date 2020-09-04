@@ -5,12 +5,11 @@
 }
 
 small{
-  font-size: 16px;
+  font-size: 0.8em;
   padding: 0 10px;
 }
 
 .job .sub-title{
-  font-size: 18px;
   font-weight: bold;
 }
 .job .sub-title .job-title{
@@ -20,7 +19,6 @@ small{
   float: right;
 }
 .job .sub-content{
-  font-size: 18px;
 }
 
 @media print {
@@ -28,10 +26,39 @@ small{
     margin-bottom: 1mm;
     text-align: center;
   }
+  #header_wrap .inner {
+    padding: 5mm 2mm 0 2mm;
+  }
   h1, h2, h3,h4,h5 {
     margin-bottom: 0mm;
+    margin-top: 0mm;
   }
+
+  h1 {
+    font-size: 28pt;
+  }
+
+  h2 {
+    font-size: 24pt;
+  }
+
+  h3 {
+    font-size: 21pt;
+  }
+
+  h4 {
+    font-size: 18pt;
+  }
+
+  h5 {
+    font-size: 14pt;
+  }
+  .company {
+    padding: 5mm 2mm 0 2mm;
+  }
+
   .tag:after {
-    content: ', ';
+    content: ',';
+    margin-right: 1mm;
   }
 }
